@@ -1,1 +1,1 @@
-https://github.com/Ozlemim8906/horoscope
+https://github.com/Ozlemim8906/horoscope.git
